@@ -8,9 +8,11 @@
 
 ## 按鈕式介面
 
-透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業運用在：商品介紹、店點查找、文章查詢、引導下載APP等。 [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
+透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業運用在：商品介紹、店點查找、文章查詢、引導下載APP等。
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+
+ [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
 
 ## Your first website
 
@@ -24,7 +26,7 @@ We've already set-up a GitHub Pages website for you, based on your personal user
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+
 
 Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
 
