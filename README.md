@@ -69,6 +69,8 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
 ![repo-settings-image](images/chatbot_03.png)
 ![repo-settings-image](images/chatbot_04.png)
 
+<br><br>
+
 # 參考文獻
 
  * [GoSky](https://www.goskyai.com/tw/)
@@ -76,3 +78,13 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
  * [iThome](https://www.ithome.com.tw/article/113443)
  
  * [數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
+ 
+ # 相關廠商與案例分享
+ 
+* [碩網資訊](https://www.intumit.com/SmartRobot.html)
+
+* [GoSky](https://www.goskyai.com/tw/casestudy/)
+
+* [High5](https://www.high5.ai/?page_id=1151)
+
+* [BotBonnie](https://botbonnie.com/)
