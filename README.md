@@ -67,6 +67,7 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
 ## 不要挑戰用戶耐心，幾個按鈕就要給答案
 
 ![repo-settings-image](images/chatbot_03.png)
+![repo-settings-image](images/chatbot_04.png)
 
 # 參考文獻
 
