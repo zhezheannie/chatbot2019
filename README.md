@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# 什麼是Chatbot
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+聊天機器人(又稱Chatbot)，能夠經由對話或文字與用戶進行交談，透過人工智慧針對使用者輸入的問題、指令，提供相對應的回覆。
 
 ## Repositories
 
