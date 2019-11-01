@@ -2,15 +2,13 @@
 
 聊天機器人(又稱Chatbot)，能夠經由對話或文字與用戶進行交談，透過人工智慧針對使用者輸入的問題、指令，提供相對應的回覆。
 
-## Repositories
+# 聊天機器人是如何與使用者互動？
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+大致可以分為兩類：問答式介面、按鈕式介面。
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+## 按鈕式介面
 
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業運用在：商品介紹、店點查找、文章查詢、引導下載APP等。 [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
