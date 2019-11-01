@@ -12,16 +12,12 @@
 
 ![repo-settings-image](images/chatbot_01.png)
 
- [Youtube](https://youtu.be/5IlIVZtoeuc)
-
 ## 問答式介面
 
 依據使用者輸入內容，透過自然語意分析(Natural Language Processing, NLP) 與設定的關鍵字回覆使用者。適合金融、汽車、房地產、補教等產業**運用在：獲得潛在客戶名單(Leads generation)、問卷調查、抽獎等情境。**
 
 ![repo-settings-image](images/chatbot_02.png)
 
- [Youtube](https://youtu.be/ryN6EBbZJi4)
- 
  <br><br>
 
 # Chatbot實現對話商務的4項建議
