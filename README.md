@@ -48,4 +48,4 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
 
  * [數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
  
- * [【業界Chatbot開發經驗】靠Chatbot實現對話商務的4項建議](https://www.ithome.com.tw/news/113440)
+ * [iThome](https://www.ithome.com.tw/article/113443)
