@@ -8,13 +8,15 @@
 
 ## 按鈕式介面
 
-透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業**運用在：商品介紹、店點查找、文章查詢、引導下載APP**等。 [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
+透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業**運用在：商品介紹、店點查找、文章查詢、引導下載APP**等。
 
 ![repo-settings-image](images/chatbot_01.png)
 
-## Your first website
+ [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+## 問答式介面
+
+依據使用者輸入內容，透過自然語意分析(Natural Language Processing, NLP) 與設定的關鍵字回覆使用者。適合金融、汽車、房地產、補教等產業**運用在：獲得潛在客戶名單(Leads generation)、問卷調查、抽獎等情境。**
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 
