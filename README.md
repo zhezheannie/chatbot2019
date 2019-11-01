@@ -29,5 +29,5 @@
 
 # 參考文獻
 
-![GoSky](https://www.goskyai.com/tw/)
-![數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
+[GoSky](https://www.goskyai.com/tw/)
+[數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
