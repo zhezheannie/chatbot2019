@@ -10,7 +10,7 @@
 
 透過聊天機器人內建置的預設腳本內容，供使用者選擇。 相較於問答式互動，按鈕式互動提供明確的選擇方向，在使用者開始使用聊天機器人時，避免陷入茫然不知從何開始的窘境。適合電商、零售、媒體產業運用在：商品介紹、店點查找、文章查詢、引導下載APP等。
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+![repo-settings-image](images/chatbot_01.png)
 
  [Youtube](https://www.youtube.com/watch?v=5IlIVZtoeuc)
 
