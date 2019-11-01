@@ -45,7 +45,7 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
 # 參考文獻
 
  * [GoSky](https://www.goskyai.com/tw/)
-
- * [數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
  
  * [iThome](https://www.ithome.com.tw/article/113443)
+ 
+ * [數位時代](https://www.bnext.com.tw/search/tag/Chatbot)
