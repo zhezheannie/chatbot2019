@@ -56,9 +56,17 @@ Chatbot的應用橫跨各大產業，企業在數位轉型的浪潮下都躍躍�
 
 ## 2.各大通訊軟體開放聊天機器人API串接
 
-3.人工智慧崛起，有助推動自然語言理解（NLU, Natural Language Understanding）的進程
+## 3.人工智慧崛起，有助推動自然語言理解（NLU, Natural Language Understanding）的進程
 
 <br><br>
+
+# Chabot服務再進化！不只搞定客服，更在互動時勾住消費者的心
+
+國際研究顧問機構顧能（Gartner）預估，到了2021年，超過50％的企業每年投資在聊天機器人（Chatbot）的金額將超過傳統App
+
+## 不要挑戰用戶耐心，幾個按鈕就要給答案
+
+
 
 # 參考文獻
 
